@@ -4,9 +4,9 @@
 ### مهرشاد ده نمکی  
 
 ---
-+ [حساب گیت هاب]https://github.com/mehrshad1377
-+ [آدرس رزومه]https://mehrshad1377.github.io/github.io/
-+ [sop]https://mehrshad1377.github.io/SOP/
++ [حساب گیت هاب](https://github.com/mehrshad1377)
++ [آدرس رزومه](https://mehrshad1377.github.io/github.io/)
++ [sop](https://mehrshad1377.github.io/SOP/)
 
 
 -------------------
@@ -72,10 +72,10 @@
   </tr>
    <tr>
     <th ></th>
-     <th ><a </a></th>
+     <th ></th>
      <th ></th>
      <th></th>
-    <th><a </a></th>
+    <th></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
