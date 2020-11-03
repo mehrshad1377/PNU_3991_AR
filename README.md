@@ -19,7 +19,7 @@
 -----------------
 
 
-## جدول دروس اخذ شده
+## روز و ساعت ارائه دروس
 
 <table style="width:100%">
   <tr>
@@ -29,15 +29,14 @@
     <th>10-12</th>
     <th>8-10</th>
     <th>روز</th>
-   </tr>
+  </tr>
   <tr>
     <th ></th>
     <th ></th>
-    <th ><a </a></th>
     <th ></th>
-    <th ><a 
-    <th ><a </th>
-  <th>شنبه</th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
@@ -49,17 +48,16 @@
   </tr>
    <tr>
      <th ><a herf="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >روش پژوهش و ارائه</a></th>
-     <th ><a </a></th>
-     <th><a </a></th>
-     <th><a 
+     <th ></th>
+     <th></th>
      <th></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
-     <th></th>
     <th ></th>
-     <th></th>
+    <th ></th>
+    <th></th>
     <th></th>
     <th ></th>
     <th>سه شنبه</th>
@@ -69,14 +67,14 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a </a></th>
+     <th ></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  </a></th>
      <th ><a </a></th>
-     <th><a  </a></th>
+     <th ></th>
+     <th></th>
     <th><a </a></th>
     <th>پنج شنبه</th>
   </tr>
