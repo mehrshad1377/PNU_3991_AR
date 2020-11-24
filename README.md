@@ -5,7 +5,7 @@
 
 ---
 + [حساب گیت هاب](https://github.com/mehrshad1377)
-+ [آدرس رزومه](https://mehrshad1377.github.io/github.io/)
++ [آدرس رزومه](https://mehrshad1377.github.io/resume/)
 + [sop](https://mehrshad1377.github.io/SOP/)
 
 
