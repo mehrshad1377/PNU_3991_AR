@@ -7,7 +7,7 @@
 + [حساب گیت هاب](https://github.com/mehrshad1377)
 + [آدرس رزومه](https://mehrshad1377.github.io/resume/)
 + [sop](https://mehrshad1377.github.io/SOP/)
-
++ [پروژه گروهی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
 
 -------------------
 ## ترم مهر ماه 1399
